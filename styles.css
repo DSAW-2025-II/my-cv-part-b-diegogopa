@@ -1,0 +1,95 @@
+/* Este es un comentario */
+/* Enlace tu CSS al HTML */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.cv {
+  display: flex;
+  max-width: 900px;
+  margin: auto;
+  background-color: white;
+}
+
+.Izquierda {
+  width: 35%;
+  background-color: #102131;
+  color: white; /* Color del texto*/
+  padding: 20px;
+  display: flex; /*Organizan los elementos en columnas */
+  flex-direction: column;
+  align-items: center; /*Centra horizontalmente lo que tiene el lado izquierdo*/
+}
+
+.Izquierda img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;/*Hace que la imagen se vea circular*/
+  margin-bottom: 15px; /*Separa la imagen del texto de abajo*/
+}
+
+.Izquierda h1 {
+  font-size: 20px; /*Cambia el tamaño de la letra */
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.Izquierda h2 {
+  font-size: 14px;
+  margin-bottom: 20px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.Seccion {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.Seccion h3 {
+  font-size: 14px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid white;
+  padding-bottom: 4px;
+}
+
+.Seccion p{
+    font-size: 13px;
+    line-height: 1.5; /*Altura entre lineas*/
+}
+.Seccion li {
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.Derecha {
+  width: 65%;
+  padding: 20px;
+  color: black;
+}
+
+.Derecha h3 {
+  color: #23384B;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.Derecha h4 {
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+.Derecha ul {
+  margin: 5px 0 15px 20px;/*agrega margen superior/inferior y sangría a la izquierda*/
+}
+
+

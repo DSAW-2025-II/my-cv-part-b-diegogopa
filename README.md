@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3TsFj7A-)
-
+## Marcado
 Nombre: Diego Alejandro Gómez Papagayo
 ID-Universitario: 0000336260
 Gmail: diegogopa@unisabana.edu.co
@@ -89,5 +89,8 @@ section {
 - Piensa en un diseño limpio y profesional.
 - Utiliza recursos en línea como [Google Fonts](https://fonts.google.com/) para elegir una buena tipografía.
 - Experimenta con combinaciones de colores que sean agradables a la vista.
+
+## Actividad Pantallazo
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b805040a-61c9-496e-bc01-34fea0968abb" />
 
 ¡Buena suerte y diviértanse creando su CV!

@@ -2,7 +2,7 @@
 ## Marcado
 Nombre: Diego Alejandro Gómez Papagayo
 ID-Universitario: 0000336260
-Gmail: diegogopa@unisabana.edu.co
+Correo: diegogopa@unisabana.edu.co
 
 
 # Bienvenidos a la Tarea de HTML y CSS
@@ -93,4 +93,6 @@ section {
 ## Actividad Pantallazo
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b805040a-61c9-496e-bc01-34fea0968abb" />
 
+## Archivo Desplegado
+https://dsaw-2025-ii.github.io/my-cv-part-b-diegogopa/
 ¡Buena suerte y diviértanse creando su CV!
